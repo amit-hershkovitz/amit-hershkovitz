@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Amit Hershkovitz.
+
+## Projects 🛠
+I'm currently working on a deep learning project for detection of fixed-wing UAVs in images.
