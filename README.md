@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=red)
 ![Static Badge](https://img.shields.io/badge/TensorFlow-white?style=for-the-badge&logo=TensorFlow&logoColor=orange)
 ![Static Badge](https://img.shields.io/badge/pytorch-black?style=for-the-badge&logo=pytorch&logoColor=red)
+![Static Badge](https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter&logoColor=orange)
 ![Static Badge](https://img.shields.io/badge/Numpy-darkblue?style=for-the-badge&logo=NumPy&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/pandas-white?style=for-the-badge&logo=pandas&logoColor=darkblue)
 ![Static Badge](https://img.shields.io/badge/Scipy-white?style=for-the-badge&logo=scipy&logoColor=blue)
