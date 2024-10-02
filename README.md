@@ -1,4 +1,4 @@
-## Hi there, I'm Amit Hershkovitz 👋
+## Hi, I'm Amit! Welcome to my Github!
 
 <!--
 **amit-hershkovitz/amit-hershkovitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Projects 🛠
+![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow)
+![Static Badge](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logoColor=yellow)
+![Static Badge](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=red)
+![Static Badge](https://img.shields.io/badge/TensorFlow-white?style=for-the-badge&logo=TensorFlow&logoColor=orange)
+![Static Badge](https://img.shields.io/badge/pytorch-black?style=for-the-badge&logo=pytorch&logoColor=red)
+![Static Badge](https://img.shields.io/badge/Numpy-darkblue?style=for-the-badge&logo=NumPy&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/pandas-white?style=for-the-badge&logo=pandas&logoColor=darkblue)
+![Static Badge](https://img.shields.io/badge/Scipy-white?style=for-the-badge&logo=scipy&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/pytest-lightgrey?style=for-the-badge&logo=pytest&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Sphinx-blue?style=for-the-badge&logo=sphinx&logoColor=white)
+
+
+### My Projects 👷‍♂️
 I'm currently working on a deep learning project for detection of fixed-wing UAVs in images.
