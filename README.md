@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/Scipy-white?style=for-the-badge&logo=scipy&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/pytest-lightgrey?style=for-the-badge&logo=pytest&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Sphinx-blue?style=for-the-badge&logo=sphinx&logoColor=white)
-
+![Static Badge](https://img.shields.io/badge/Google%20Cloud%20Platform-yellow?style=for-the-badge&logo=GoogleCloud&logoColor=white)
 
 ### My Projects 👷‍♂️
 I'm currently working on a deep learning project for detection of fixed-wing UAVs in images.
