@@ -30,5 +30,6 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/Sphinx-blue?style=for-the-badge&logo=sphinx&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Google%20Cloud%20Platform-yellow?style=for-the-badge&logo=GoogleCloud&logoColor=white)
 
-### My Projects 👷‍♂️
-I'm currently working on a deep learning project for detection of fixed-wing UAVs in images.
+### Personal Projects 👷‍♂️
+#### ![Fixed-Wing Unmanned Aerial Vehicles (UAVs) Detection](https://github.com/amit-hershkovitz/fixed_wing_uavs/) (2024-present)
+The use of fixed-wing UAVs has surged due to demand from defense, agriculture, and surveying sectors, making their detection in images and videos crucial for airspace safety and coordination. In this project, I aim to enhance UAV detection for improved security and air traffic management.
